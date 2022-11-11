@@ -9,6 +9,6 @@ enter 3 variables two inherent values both Int and a percentage Int if compute T
         
                      var1 pv  var2   source
                         | |   |      |                       
-         ./pVEasy4.sh 100 5 101 aDict1.sh
+         ./pVEasy.sh 100 5 101 aDict1.sh
 
    
